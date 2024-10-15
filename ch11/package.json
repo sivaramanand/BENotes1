@@ -1,0 +1,13 @@
+{
+  "name": "ch11",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "index.js",
+    "dev": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
