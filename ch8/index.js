@@ -7,5 +7,5 @@ const port = 3001;
 app.use("/student", students);
 
 app.listen(port, () => {
-  console.log(`Server listening listening at at ${port}`);
+  console.log(`Server listening at at ${port}`);
 });
